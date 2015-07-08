@@ -30,11 +30,10 @@ My goal for this project to illustrate how easily you can create HTML5 / JS proj
 ### Setup
  1.  Download the source from [GitHub](https://github.com/DaveVoyles/Famous-Angular-Pokemon-Cordova)
  3.  Install [Visual Studio 2015 or 2013](https://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx) 
- 3.  Install [Windows 10 SDK (Included with Visual Studio).](https://dev.windows.com/en-us/downloads/windows-10-developer-tools) 
+ 3.  Install [Windows 10 SDK (Included with Visual Studio).](https://dev.windows.com/en-us/downloads/windows-10-developer-tools)
  4.  Install - [Visual Studio Tools for Cordova](https://msdn.microsoft.com/en-us/library/dn771545.aspx) 
  
  **NOTE:** You can find the project this is based off of (just the web stuff) [here.](https://github.com/DaveVoyles/famous-angular-Pokemon)
-
 
 ---------
 
@@ -42,8 +41,7 @@ My goal for this project to illustrate how easily you can create HTML5 / JS proj
 
 
 ### Conclusion
-That's all there is to it. You have a fully functioning Cordova app made for iOS. In the next lession I'll cover how to do this on Windows with Visual Studio, where we can debug Windows Phone, Android, and even iOS. 
-
+That's all there is to it. You have a fully functioning HTML5 app for the Windows 10 UWP. You can read more about our Hosted Web App platform, [Project Westminster](http://www.davevoyles.com/project-westminster-hosted-web-apps-for-uwp-html5-in-win-10/), which also illustrates how to communicate to the native features of a Windows 10 app. 
 
 ----------
 ## Resources

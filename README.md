@@ -37,6 +37,14 @@ My goal for this project to illustrate how easily you can create HTML5 / JS proj
 
 ---------
 
+### Create a wrapper folder called "App" in the root directory
+The purpose of this folder is to contain everything that we are about to insert from our website into this UWP project. It also allows us to add the two **bower_components** folders without conflicting. In our website, one **bower_components** folder is in the root directory, and the other is contained within our app folder.
+
+Afterwards, lace css, images, and JS content in the app folder
+
+### Updating package.appxmanifest
+
+The appxmanifest is an XML document which contains properties for our application, such as the UI, capabilities, and packaging. 
 
 
 
